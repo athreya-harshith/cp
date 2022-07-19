@@ -1,0 +1,1 @@
+{"name":"Local: cclcpinbs","url":"/home/athreya_harshith/codes/CODE CHEF PROBLEMS/cclcpinbs.cpp","tests":[{"id":1641667472522,"input":"3\n1\n111\n101101\n","output":"No\nYes\nYes\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/athreya_harshith/codes/CODE CHEF PROBLEMS/cclcpinbs.cpp","group":"local","local":true}
