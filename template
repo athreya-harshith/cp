@@ -1,0 +1,36 @@
+/* @threya */
+#include<bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+#define ull unsigned long long
+#define ul unsigned long
+
+#define pb push_back
+#define pop pop_back
+
+
+#define mp make_pair
+#define F first
+#define S second
+
+#define all(v) v.begin() , v.end()
+
+
+int main()
+{
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    #ifndef ONLINE_JUDGE
+        freopen("input.txt", "r", stdin);
+        freopen("output.txt", "w", stdout);
+    #endif //For ONLINE_JUDGE Only
+   
+    
+ 
+
+
+
+    return 0;
+}
